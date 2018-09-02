@@ -8,6 +8,7 @@ public class User implements Serializable{
     private Integer age;
     private String sex;
     private Integer age1;
+    private Integer age2;
     public String getName() {
         return name;
     }
